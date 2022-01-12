@@ -1,2 +1,4 @@
 # calculator
-TR-->Hesap makinesi ENG-->Calculator
+TR-->Hesap makinesi
+
+ENG-->Calculator
